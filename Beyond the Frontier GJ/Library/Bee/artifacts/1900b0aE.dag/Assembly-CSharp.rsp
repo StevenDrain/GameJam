@@ -379,9 +379,19 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/ButtonManager.cs"
-"Assets/gunScript.cs"
-"Assets/PlayerController.cs"
+"Assets/Script/ButtonManager.cs"
+"Assets/Script/EnemyMove.cs"
+"Assets/Script/EnemySpawner.cs"
+"Assets/Script/gunScript.cs"
+"Assets/Script/Kill.cs"
+"Assets/Script/PlayerController.cs"
+"Assets/Script/powerup.cs"
+"Assets/Script/powerup1.cs"
+"Assets/Script/powerup2.cs"
+"Assets/Script/powerup3.cs"
+"Assets/Script/rotate.cs"
+"Assets/Script/ScoreManager.cs"
+"Assets/Script/Spin.cs"
 -langversion:9.0
 
 /deterministic
